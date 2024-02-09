@@ -272,6 +272,7 @@ img{
 .home__img{
   width: 300px;
   justify-self: center;
+  border-radius: .8rem;
 }
 
 .button{
@@ -359,6 +360,8 @@ img{
   width: 100px;
   align-self: center;
   margin-bottom: var(--mb-2);
+  border-radius: 1rem;
+  height: auto;
 }
 
 .menu__name, .menu__price{
